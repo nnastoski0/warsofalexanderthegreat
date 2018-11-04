@@ -1,0 +1,14 @@
+@font-face {
+  font-family: DalekPinpoint;
+  src: url(./DalekPinpointBold.ttf);
+}
+
+#title {
+  color: 	#00FFFF;
+  font-family: DalekPinpoint;
+
+}
+
+body {
+    background-color: black;
+}
