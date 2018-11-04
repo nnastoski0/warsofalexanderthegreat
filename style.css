@@ -1,6 +1,6 @@
 @font-face {
   font-family: DalekPinpoint;
-  src: url(./DalekPinpointBold.ttf);
+  src: url(fonts/DalekPinpointBold.ttf);
 }
 
 .container {
@@ -99,4 +99,22 @@ a:active {
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+}
+
+.card {
+     font-family: "Noto Sans";
+     background-color: white;
+     padding: 20px;
+     margin-top: 20px;
+     width: 50%;
+     position: relative;
+     left: 24%;
+     bottom: 20%;
+     top: 20%;
+}
+
+
+.papertitle {
+  text-align: center;
+  bottom: 200px;
 }
