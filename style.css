@@ -118,3 +118,7 @@ a:active {
   text-align: center;
   bottom: 100px;
 }
+
+#mySideNav {
+  font-family: DalekPinpoint;
+}
